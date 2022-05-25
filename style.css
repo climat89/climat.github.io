@@ -1,0 +1,50 @@
+h1
+{
+color:green;
+justify-content:left;
+font-size:2em;
+}
+nav ul 
+{
+	display:flex;
+	justify-content:space-between;
+	padding-left:800px; 
+	padding-right:40px;
+	list-style-type:none;
+	color:white;
+	font-family:arial black;
+}
+
+body{
+	background-color:black;
+	color:white;
+}
+nav ul:hover
+{color:blue;
+text-decoration:underline;
+}
+.tout
+{ display:flex;
+justify-content:center;
+align-items:center;
+font-family:arial black;
+font-size:1.7em;
+height:350px; 
+background-image:url(iceberg.jpg);
+background-size:cover;
+}
+h2
+{
+color:red;
+}
+.nasa 
+{
+	color:white;
+	text-decoration:none;
+}
+.nasa:hover
+{
+	color:blue;
+	text-decoration:underline;
+}
+	

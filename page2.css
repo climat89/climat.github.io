@@ -1,0 +1,60 @@
+nav ul  
+{ display:flex;
+	justify-content:space-between;
+	padding-left:700px; 
+	padding-right:40px;
+	list-style-type:none;
+	color:white;
+	font-family:arial black;
+}
+h1
+{ color:red;
+}
+
+body
+{
+	color:white;
+    background-color:black;
+	overflow-wrap:anywhere;
+	font-size:1.1em;
+}
+.cause
+{	
+float:right;
+height:24%;
+width:40%;
+}
+h3
+{
+	color:green;
+}
+
+h3
+{
+	color:green;
+}
+.cons
+{
+	justify-content:center;
+	height:	20%;
+	width:70%;
+}
+.conse
+{
+	float:right;
+	height:220px;
+}
+.accueil
+{text-decoration:none;
+	color:white;
+}
+.cec
+{
+	text-decoration:none;
+	color: white;
+}
+.soluutions
+{
+	text-decoration:none;
+	color:white;
+}

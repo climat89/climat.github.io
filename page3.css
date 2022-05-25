@@ -1,0 +1,57 @@
+body{
+	background-color:black;
+	color:white;
+	
+	
+}
+.logo
+{
+
+width:160px;
+height:130px;
+justify-content:left;
+}
+nav ul 
+{ 
+display:flex;
+justify-content:space-between;
+	padding-left:700px; 
+	padding-right:40px;
+	list-style-type:none;
+	color:white;
+	font-family:arial black;
+	text-decoration:none;
+}
+.accueil ,.causesss,.soluutions
+{
+text-decoration:none;
+color:white;
+font-size:1.1em;
+}
+h2
+{
+	color:red;
+}
+.accueil:hover ,.causesss:hover,.soluutions:hover
+{
+	text-decoration:underline;
+}
+p
+{
+	font-size:1.1em;
+}
+.cop
+{
+	float:right;
+	height:400px;
+	width:34%;
+}
+h5
+{
+	color:green;
+	font-size:1.3em;
+}
+	
+
+
+	
