@@ -1,14 +1,32 @@
 nav ul  
 { display:flex;
 	justify-content:space-between;
-	padding-left:700px; 
+	padding-left:660px; 
 	padding-right:40px;
 	list-style-type:none;
 	color:white;
 	font-family:arial black;
+	
+}
+.logo
+{
+
+width:160px;
+height:130px;
+justify-content:left;
+}
+.accueil,.cec,.soluutions
+{text-decoration:none;
+	color:white;
+	font-size:0.8em;
+}
+.accueil:hover,.cec:hover,.soluutions:hover
+{
+	text-decoration:underline;
 }
 h1
-{ color:red;
+{ 
+color:red;
 }
 
 body
@@ -26,12 +44,7 @@ width:40%;
 }
 h3
 {
-	color:green;
-}
-
-h3
-{
-	color:green;
+	color:red;
 }
 .cons
 {
@@ -43,18 +56,4 @@ h3
 {
 	float:right;
 	height:220px;
-}
-.accueil
-{text-decoration:none;
-	color:white;
-}
-.cec
-{
-	text-decoration:none;
-	color: white;
-}
-.soluutions
-{
-	text-decoration:none;
-	color:white;
 }

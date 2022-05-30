@@ -1,0 +1,192 @@
+.accueil,.causesss,.soluutions
+{
+text-decoration:none;
+color:white;
+}	
+nav ul 
+{ 
+	display:flex;
+	justify-content:space-between;
+	padding-left:700px; 
+	padding-right:40px;
+	list-style-type:none;
+	color:white;
+	font-family:arial black;
+	text-decoration:none;
+}
+.soluutions
+{
+  text-decoration:none;
+  color:white;
+}
+nav ul 
+{ 
+	display:flex;
+	justify-content:space-between;
+	padding-left:700px; 
+	padding-right:40px;
+	list-style-type:none;
+	color:white;
+	font-family:arial black;
+	text-decoration:none;
+}
+section
+{
+	flex:1 0 auto;
+}
+
+body{
+	background-color:black;
+	position:relative;
+	color:white;
+	overflow-wrap:anywhere;
+
+}
+nav ul:hover
+{
+text-decoration:underline;
+}
+#tout
+{ display:flex;
+justify-content:center;
+align-items:center;
+font-family:arial black;
+font-size:1.7em;
+height:350px; 
+background-image:url(arbre.jpg);
+background-size:cover;
+}
+h2
+{
+color:red;
+}
+.nasa 
+{
+	color:white;
+	text-decoration:none;
+}
+.contact{
+	text-decoration:underline;
+}
+	
+.nasa:hover,.types:hover,.cause:hover,.def:hover,.effet:hover,.conséquences:hover,.solu:hover
+{
+	color:blue;
+	text-decoration:underline;
+}
+h3
+{
+	color:green;
+	text-decoration:underline;
+}
+aside
+{ 
+	position:absolute;
+right:0;
+top:185px;
+width:17%;
+height:390px;
+border:1px solid white;
+overflow-wrap:anywhere;
+background:#15202B;
+}
+section{
+	position:relative;
+	height:580px;
+}
+.intro
+{ display:flex;
+padding-right:300px;
+
+}
+.logo
+{
+
+width:160px;
+height:130px;
+justify-content:left;
+}
+.rech
+{ position:absolute;
+top:	370px;
+right:220px;
+	float:right;
+	height:240px;
+	width:260px;
+}
+#types
+{
+	margin-right:100px;
+	font-size:1.2em;
+}
+footer
+{
+	position:relative;
+	border-top:1px solid grey;
+	width:100%;
+	background:#15202B;
+	height:259px;
+}
+#contenu-footer
+{
+	position:relative;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	font-size:1em;
+}
+	h3{
+		font-family:arial;
+	color:white;
+	font-size:1.1em;
+	text-decoration:none;
+}
+#foo
+{
+	position:absolute;
+	bottom:10px;
+	right:370px;
+font-size:1em;
+}
+.solu,.conséquences,.def,.cause,.types
+{
+	font-family:cursive;
+	color:white;
+	text-decoration:underline;
+}
+h6
+{ 
+
+position:absolute;
+bottom:10px;
+right:479px;
+font-size:1.2em;
+font-family:monospace;
+color:#E2E2E2;
+}
+.liste-sommaire
+{
+	list-style-type:none;
+}
+.sommaire
+{
+	border:2px solid #E2E2E2;
+	position:absolute;
+	right:100px;
+	top:30px;
+	padding-right:10px;
+}
+.som
+{ padding-left:20px;
+}
+.email,.twitter
+{
+	height:30px;
+	width:30px;
+}
+.contacter
+{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+} 
